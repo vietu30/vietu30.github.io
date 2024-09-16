@@ -1,0 +1,59 @@
+body {
+  background-color: #5a4737;
+  font-family: Arial;
+  color: rgb(209, 209, 209);
+}
+.Title {
+  color: rgb(52, 115, 173);
+  font-size: 40px;
+  font-weight: 600;
+}
+span {
+  color: rgb(196, 196, 90);
+}
+.MyName {
+  font-size: 15px;
+}
+.Myclasses {
+  font-size: 20px;
+  color: rgb(103, 142, 201);
+  font-weight: 300;
+}
+.MyFavor {
+  font-size: 20px;
+  color: rgb(103, 142, 201);
+  font-weight: 300;
+}
+.Italic {
+  font-style: italic;
+  color: rgb(209, 209, 209);
+}
+.red {
+  color: rgb(184, 45, 45);
+}
+.MyMoods {
+  font-size: 20px;
+  color: rgb(103, 142, 201);
+  font-weight: 300;
+}
+img {
+  width: 200px;
+  height: 200px;
+}
+.sadodg {
+  width: 350px;
+  height: 200px;
+}
+.smile {
+  width: 175px;
+  height: 200px;
+}
+.ff {
+  font-size: 20px;
+  color: rgb(103, 142, 201);
+  font-weight: 300;
+}
+.w3c {
+  width: 80px;
+  height: 30px;
+}
